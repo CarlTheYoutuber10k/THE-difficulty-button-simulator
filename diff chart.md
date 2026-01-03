@@ -1,5 +1,3 @@
-ctrl+click to go to one of the link!
-
 ---CLASS -2---
 
 Ifnte-Abslt-Wn
@@ -115,4 +113,5 @@ SuperSkip
 [Instant Win](https://jtohs-joke-towers.fandom.com/wiki/Instant_Win)
 
 &nbsp;	The Presentation Experience Difficulty
+
 
